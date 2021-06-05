@@ -1,2 +1,2 @@
 # GA-SOS-cuadrados-magicos
-En este trabajo se proponen dos algoritmos evolutivos (búsqueda de organismos simbióticos y algoritmos genéticos), para resolver problemas de cuadrados mágicos. 
+En este trabajo se proponen dos algoritmos evolutivos (búsqueda de organismos simbióticos y algoritmos genéticos), para resolver problemas de cuadrados mágicos. Particularmente se busca la solución a un problema de solución analítica: encontrar un cuadrado mágico de $3 \times 3$ que al menos 6 de sus entradas sean un número cuadrado; y otro problema el cual se desconoce su solución: encontrar un cuadrado aditivo-multiplicativo de $5 \times 5$.
