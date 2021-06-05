@@ -1,3 +1,5 @@
+from numba import jit, njit
+import numpy as np
 @njit
 def fitness33y6(x):
     # Fitness para encontrar el único cuadrado mágico de 3x3
