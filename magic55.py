@@ -1,3 +1,5 @@
+from numba import jit, njit
+import numpy as np
 @njit
 def fitness_multi_55(x):
     #UNTITLED2 Summary of this function goes here
